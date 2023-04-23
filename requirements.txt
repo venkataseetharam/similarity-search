@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+cv2
+os
+tqdm
+PIL
+sklearn

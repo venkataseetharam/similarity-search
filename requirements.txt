@@ -1,8 +1,9 @@
 streamlit
 tensorflow
 numpy
-cv2
+opencv-python
 os
 tqdm
 PIL
-sklearn
+scikit-learn
+pillow
